@@ -1,0 +1,16 @@
+ customization: 
+   distribution_code_name: Weasel
+   distribution_version: 0.14.3
+   generator: "Weasel: :UIStyleSettings"
+   modified_time: "Sun Nov  3 16: 43:49 2019"
+   rime_version: 1.5.3
+
+ patch: 
+   "style/color_scheme": dark_temple # 夜间模式皮肤
+   "style/font_face": "Microsoft YaHei"   # 字體名稱，这里是微软雅黑
+   "style/font_point": 15                          # 字號，只認數字的
+   "style/horizontal": true           # 输入候选框横向显示
+   "style/display_tray_icon": false
+   "style/inline_preedit": false
+   "style/fullscreen": false
+ 
